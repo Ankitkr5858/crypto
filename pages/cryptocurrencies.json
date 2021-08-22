@@ -1,0 +1,14 @@
+[
+    {
+        "symbol": "BTC",
+        "name": "Bitcoin"
+    },
+    {
+        "symbol": "ETH",
+        "name": "Ethreum"
+    },
+    {
+        "symbol": "DOGE",
+        "name": "Dogecoin"
+    }
+]
