@@ -10,5 +10,17 @@
     {
         "symbol": "DOGE",
         "name": "Dogecoin"
+    },
+    {
+        "symbol": "DOT",
+        "name": "Polkadot"
+    },
+    {
+        "symbol": "MATIC",
+        "name": "Polygon"
+    },
+    {
+        "symbol": "TFUEL",
+        "name": "Theta Fuel"
     }
 ]
